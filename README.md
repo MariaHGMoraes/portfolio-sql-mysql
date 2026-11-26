@@ -50,6 +50,29 @@ Este espaço documenta minha evolução no aprendizado de SQL, reunindo conceito
 - Arquivos SQL (Dump).
 - Noções de restauração de bancos de dados.
 
+### 07. Consultas SQL
+
+#### SELECT — Parte I
+- SELECT — Seleção de colunas e registros.
+- FROM — Definição da tabela consultada.
+- ORDER BY — Ordenação dos resultados.
+- WHERE — Filtragem de registros.
+
+- Operadores relacionais:
+  - Igualdade (=)
+  - Maior que (>)
+  - Menor que (<)
+  - Maior ou igual (>=)
+  - Menor ou igual (<=)
+  - Diferente de (!=)
+
+- BETWEEN — Seleção de valores dentro de um intervalo.
+- IN — Seleção de valores pertencentes a uma lista.
+
+- Operadores lógicos:
+  - AND
+  - OR
+    
 ## 🛠️ Ferramentas utilizadas
 
 - MySQL
