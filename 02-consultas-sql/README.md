@@ -13,12 +13,16 @@ Os arquivos reúnem consultas desenvolvidas durante as aulas do curso de MySQL d
 - ORDER BY — Ordenação dos resultados.
 - WHERE — Filtragem de registros.
 - Operadores relacionais:
-  - Igualdade (`=`)
-  - Menor ou igual (`<=`)
-  - Maior ou igual (=`>`)
-  - Diferente de !=&#x20;
-- BETWEEN -  Seleção de valores dentro de um intervalo.
-- IN  - Seleção de valores pertencentes a uma lista.
+ - Igualdade (=)
+  - Maior que (>)
+  - Menor que (<)
+  - Maior ou igual (>=)
+  - Menor ou igual (<=)
+  - Diferente de (!=)
+
+- BETWEEN — Seleção de valores dentro de um intervalo.
+- IN — Seleção de valores pertencentes a uma lista.
+
 - Operadores lógicos:
   - AND
   - OR
