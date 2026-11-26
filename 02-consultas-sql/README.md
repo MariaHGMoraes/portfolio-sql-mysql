@@ -13,7 +13,7 @@ Os arquivos reúnem consultas desenvolvidas durante as aulas do curso de MySQL d
 - ORDER BY — Ordenação dos resultados.
 - WHERE — Filtragem de registros.
 - Operadores relacionais:
- - Igualdade (=)
+  - Igualdade (=)
   - Maior que (>)
   - Menor que (<)
   - Maior ou igual (>=)
